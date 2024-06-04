@@ -3,13 +3,6 @@
 #include <chrono>
 #include <utility>
 
-/*
- * Regarding "printf("\e[1;1H\e[2J");":
- *      https://stackoverflow.com/questions/66927511/what-does-e-do-what-does-e11h-e2j-do#
- *      "\e is escape and what that printf() line is telling the terminal to move the cursor to line 1 column 1
- *      (\e[1;1H) and to move all the text currently in the terminal to the scrollback buffer (\e[2J).
- */
-
 class NPC {
 public:
     static std::string chooseRandomPos() {
