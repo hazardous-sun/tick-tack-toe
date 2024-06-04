@@ -1,3 +1,0 @@
-/home/solaire/CLionProjects/cpp-tic-tac-toe-main/cmake-build-debug/CMakeFiles/ticTacToe.dir
-/home/solaire/CLionProjects/cpp-tic-tac-toe-main/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/solaire/CLionProjects/cpp-tic-tac-toe-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
